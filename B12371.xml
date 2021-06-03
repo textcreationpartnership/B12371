@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sixe demaunds (from an vnlearned Protestant, to a learned Papist,) so forcible against all obstinate Papists, that not any of them are able to reply, without absurd equiuocation. Also an inuincible argument, to proue the Church of Rome to erre, with an infallible note whereby to know the spirit of truth, and the spirit of error.</title>
+         </titleStmt>
+         <extent>Approx. 50KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12371</idno><idno type="EEBO-CITATION">99849778</idno>
+  <idno type="VID">177919</idno>
+  <idno type="EEBO-PROQUEST">2240858544</idno>
+  <idno type="STC">STC 6574</idno>
+  <idno type="STC">ESTC S114553</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849778e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177919)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1269:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sixe demaunds (from an vnlearned Protestant, to a learned Papist,) so forcible against all obstinate Papists, that not any of them are able to reply, without absurd equiuocation. Also an inuincible argument, to proue the Church of Rome to erre, with an infallible note whereby to know the spirit of truth, and the spirit of error.</title>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Simon Stafford, dwelling in the Cloth-fayre, neere the signe of the Red Lion,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: Sixe demaunds to the learned Papists.</note>
+                  <note>Caption title (page 27) reads: An infallible note, whereby to know the spirit of truth, and the spirit of error.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177919:1"/>
+            <pb facs="tcp:177919:1"/>
+            <p>❧Sixe Demaunds <hi>(from an vnlearned Protestant, to</hi> a learned Papist,) so forcible against all obsti<g ref="char:EOLhyphen"/>nate <hi>Papists, that not any of them are</hi> able to reply, without absurd <hi>Equiuocation.</hi>
+            </p>
+            <p>Also an inuincible Argument, to <hi>proue the Church of Rome to erre, with</hi> an infallible note whereby to know <hi>the Spirit of Truth, and the</hi> spirit of Error.</p>
+            <bibl>Ecclesiastes. 9.</bibl>
+            <q>Wisdome is better then strength: yet a simple mans wis<g ref="char:EOLhyphen"/>dome is despised, and his words are not heard.</q>
+            <figure/>
+            <p>Imprinted at London by <hi>Simon Stafford,</hi> dwel<g ref="char:EOLhyphen"/>ling in the Cloth-fayre, neere the signe of the Red Lion. 1609.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177919:2"/>
+            <head>To the Protestant Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Presuppose (Christian Reader) that thou canst not be ignorant of the great number of learned bookes now extant, touching the Controuersies betweene the Papists and our selues, about the truth of Christian Religion: And there<g ref="char:EOLhyphen"/>fore I stand in some doubt, that thou wilt reiect this vnlearned Pamphlet of mine, as altoge<g ref="char:EOLhyphen"/>ther needelesse, proceeding from so weake an Author.</p>
+            <p>But mistake me not, for knowing my selfe not to be a<g ref="char:EOLhyphen"/>ble to write scholer-like, I haue therefore endeuoured to write Christian-like. (Euery Christian is not skilfull in Artes, neyther is euery great scholer a true Christian.) My whole intent in the penning hereof, is no more but to lay open vnto the zealous seduced Papist, that the Church of Rome doth erre; which truth being once made manifest to the aduersary, the maine pillar of popish Re<g ref="char:EOLhyphen"/>ligion is thereby vtterly ruinated, and peace among Christians vniuersally to be expected. But vnlesse it be first made manifest vnto him, that the visible Church may erre, sooner may the world be filled with bookes of Con<g ref="char:EOLhyphen"/>trouersies, then we to agree all in one profession.</p>
+            <p>Therefore to the effecting whereof (notwithstanding all former bookes) let euery good Christian Souldier vse his best endeuours, and euery man decently according to his vocation; remembring this by the way, that as er<g ref="char:EOLhyphen"/>rour doth weaken many great ones, so truth is able to strēgthen many little ones. And aboue all things, be sure that thou doost endeuour, as well to expresse Christ true<g ref="char:EOLhyphen"/>ly by workes, as to professe him truely by words: other<g ref="char:EOLhyphen"/>wise the mortified Papist, notwithstanding his ignorance, may iustly alleage more against thee, then thou art able to alleage against him.</p>
+            <p>Therefore, that we may be all true Christians, both in<g ref="char:EOLunhyphen"/>deed and word, let euery one seeke as well to reforme the one as the other, Farewell.</p>
+         </div>
+      </front>
+      <body>
+         <div type="preamble">
+            <pb facs="tcp:177919:2"/>
+            <head>A Preamble from the Authour, to the learned Papist, touching the answering <hi>of the Demaunds following.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as it is the dutie of all <note place="margin">Colo. 3. See Saint Hierom vpon the same place.</note> Christians, louingly to instruct and admonish one another, <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> thereby to eschew vanities and lyes, and to follow after veritie: I am now ther<g ref="char:EOLhyphen"/>fore most earnestly to entreat you whosoeuer (being a Scholler) that you will vouch<g ref="char:EOLhyphen"/>safe to peruse these sixe Demaunds here insuing, and for Gods cause to answere directly vnto them, and with as much breuitie as may be.</p>
+            <p>A professed Christian falling into error, onely by meanes of humane frailtie &amp; simple ignorance, may easily bee recalled, the truth being layd open vnto him; but for a professed Christian, after good ad<g ref="char:EOLhyphen"/>monition, still to persist in error, and obstinately to defend it against the apparant truth, that proceeds of deuilish collusion and wilfull blindnesse, and is a dis<g ref="char:EOLhyphen"/>ease hardly to be cured: for as S. <hi>Paul</hi> saith, <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> he sin<g ref="char:EOLhyphen"/>neth <note place="margin">Tit. 3</note> against his owne conscience; that is, he sinneth against his own reason and vnderstanding for there is not any Heretike whosoeuer: that goes about to
+<pb facs="tcp:177919:3"/> make good by Scripture any heresie whatsoeuer, but he shall thereby be forced to argue vndirectly and absurdly, and against all reason: for it is not possible directly to collect falshood of trueth; for God cannot lye, neither is his word vnperfectly written, being penned by the direction of himselfe, the authour of all perfection. Yea, so perfect and true it is in all respects, that it is damnable to adde or diminish one word to or from it <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. But this beeing <note place="margin">Deu. 4. 12 Gala. 3 22.</note> granted, which cannot well bee denyed, what then may be the cause, that graue men and great Schol<g ref="char:EOLhyphen"/>lers cannot perceiue their owne absurdities, in main<g ref="char:EOLhyphen"/>teining of errors by holy Scripture? Verely, it may well be thought, that because worldly wisdome is now so much in request on all sides, therefore hea<g ref="char:EOLhyphen"/>uenly wisedome is hardly found out on any side. The naturall man perceiueth not the things of the spirit of God; for they are foolishnesse vnto him, &amp;c. but he that is spirituall, discerneth all things <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">1. Cor. 2.</note> The wisdome of the flesh is death: but the wisdom of the spirit is life and peace <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. Those then that will <note place="margin">Rom. 8.</note> not be led by doctrines and traditions proceeding onely from humane wisedome, let them be wholy obedient to the wisedome of the Spirit, for thereby they may best attaine to euerlasting life and peace. Not euery one that saith, Lord, Lord, shall enter in<g ref="char:EOLhyphen"/>to the kingdome of heauen, but he onely that doth the will of the Lord of heauen <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>: for he onely builds <note place="margin">Math. 7.</note> vpō that Rocke, against which hell gates cannot pre<g ref="char:EOLhyphen"/>uayle &amp; that doth the same place of <hi>S. Mat.</hi> testifie.</p>
+            <p>We haue now many professors of <hi>Christ,</hi> in word
+<pb facs="tcp:177919:3"/> and tongue onely, but I doubt, wee haue but fewe that do liuely expresse him in deed and in truth: for he that saith he knoweth God, and keepeth not his cōmandements, is a lyar &amp; the truth is not in him *. <note place="margin">1. Iohn. 2.</note> He that is not with me (saith <hi>Christ)</hi> is against me, &amp; he that gathereth not with me, scattereth <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. He then <note place="margin">Luke. 11.</note> that is not a liuely mēber of <hi>Christ</hi> his mysticall bo<g ref="char:EOLhyphen"/>dy (the holy Catholike Church, the Communion of Saints) is against <hi>Christ,</hi> of what profession soeuer he be; for notwithstanding he doth truely professe <hi>Christ</hi> by words, yet he may wholy deny him by euil deeds: * which he could not doe, if he had that true <note place="margin">Titus. 1.</note> faith which worketh by loue; for a good tree cannot bring foorth euill fruit *. He that hath not the spirit <note place="margin">Math. 7.</note> of <hi>Christ,</hi> the same is not his, &amp;c. but as many as are led by the same spirit, they are the children of God *. <note place="margin">Rom. 8.</note> Therefore although men destitute of the same holy spirit, may altogether preach &amp; teach truth; yet be<g ref="char:EOLhyphen"/>cause they may erre also (as wanting the direction of that holy spirit which is proper onely to the elect) we dare not build vpon the doctrines of men who<g ref="char:EOLhyphen"/>soeuer (althogh vnder the name of the true church) further then the infallible rule of truth doth permit vs. And in so doing, we are not, as I suppose, to be accounted any way disobedient to authoritie ey<g ref="char:EOLhyphen"/>ther Ecclesiasticall or Ciuill, but rather most truely obedient to all, in submitting our selues vnfayned<g ref="char:EOLhyphen"/>ly to the highest authority, frō which all other take their efficacy &amp; strength; for we hold it an vndoub<g ref="char:EOLhyphen"/>ted trueth, that we are bound by duty, in respect of Gods law, <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> to obey al earthly power in euery thing <note place="margin">Rom. 13. &amp; 1. Pet. 2.</note>
+               <pb facs="tcp:177919:4"/> (either in ancient traditions, or newe precepts) it commanding nothing cōtrary to the expresse word of God. But absolutely to obey any earthly power further then holy Scripture doth allow, were abso<g ref="char:EOLhyphen"/>lutely to contradict holy Scripture for we ought a<g ref="char:EOLhyphen"/>ther to obey God then men <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>: but hee doth not o<g ref="char:EOLhyphen"/>bey <note place="margin">Acts 4 Gala. 1.</note> God rather then men, that doth absolutely giue credite to the doctrines of men, before he knowes certaynely whether the same doctrines be according to the will of God reuealed in his word. Prooue all things (saith <hi>S. Paul)</hi>
+               <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> and hold that which is good. <note place="margin">1 Thess. 5.</note> But how can we proue the difference of things, vn<g ref="char:EOLhyphen"/>lesse we haue light to proue them by? for he that is in darkenesse, is blind: and if the blind lead the blind, they shall both fall into the ditch <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>: therefore to pre<g ref="char:EOLhyphen"/>uent <note place="margin">Math. 15</note> that eiull, and because Christ is the onely light of the world <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, let vs seeke onely for him to enlightē <note place="margin">Iohn 1. 8.</note> our harts? But where shal we seek for him? Search the Scriptures (sayth the Light himselfe) for they beare witnesse of me, &amp;c. he that is of God, heareth Gods word <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. When the word of God goeth forth, it gi<g ref="char:EOLhyphen"/>ueth light and vnderstanding euen vnto the simple, <note place="margin">Iohn 5. and 8.</note> his word is alanthorne vnto our feete, and a light vn<g ref="char:EOLhyphen"/>to our pathes <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, that written word is as a light shining <note place="margin">Psal. 119 2. Pet. 1. Rom. 10. Iohn 10.</note> in a darke place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>: faith is by hearing, and hearing by the word of God <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>: my sheepe heare my voice (saith Christ) and I know them, and they follow me <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. But these things being most true, how then dares any man to say that he is one of Christs sheepe, and hath the spirit of Christ, if (fearing to mistake the word of God concerning those things which belong to
+<pb facs="tcp:177919:4"/> his owne saluation) he refuse to heare his word purely and simply as it is, without any mixture of sowre leauen proceeding from earthly wisdome? Is not he worthy to go astray, that wilfully refuseth to be led by God himselfe, &amp; chuseth rather to be led by the direction of men? verely, his owne consci<g ref="char:EOLhyphen"/>ence will one day condemne him for so doing: For he that refuseth me (saith <hi>Christ)</hi> and receiueth not my wordes, hath one that iudgeth him: the word that I haue spoken, it shal iudge him in the last day <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Iohn. 12.</note> Therfore let vs prooue all onely by that truth which hath beene from the beginning <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">1. Ioh. 2. &amp; 4.</note>
+            </p>
+            <p>I am not ignorant what is obiected here (although to no good ende obiected.) It is said that the Scrip<g ref="char:EOLhyphen"/>tures are hard to be vnderstood, and that doth Saint <hi>Peter</hi> approoue <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. Againe, all Heretikes will alleage <note place="margin">2. Pet. 3.</note> Scripture to maintaine their heresies, for the deuill himselfe did alleage Scripture against <hi>Christ</hi>
+               <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. But <note place="margin">Math. 4</note> the Church cannot erre, for hell gates cannot pre<g ref="char:EOLhyphen"/>uaile against it <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. Therefore absolutely all must bee <note place="margin">Math. 16</note> subiect to th'authoritie of the Romane Church: for that is the Church, against which hell gates cannot preuaile.</p>
+            <p>To these things I answere; first, it is true, accor<g ref="char:EOLhyphen"/>ding to the same place of <hi>S Peter,</hi> that to some the Scriptures are hard to be vnderstood, and the Apo<g ref="char:EOLhyphen"/>stle shewes there, to whom, namely, vnto the vn<g ref="char:EOLhyphen"/>learned and vnstable; to all obstinate heretikes in<g ref="char:EOLhyphen"/>deed, they are hard to be vnderstood; but doeth it therfore follow, that to the mē of God, they are also hard to be vnderstood? no verely, for <hi>S. Paul</hi> doth
+<pb facs="tcp:177919:5"/> approue the contrary, saying, that the whole Scrip<g ref="char:EOLhyphen"/>ture is giuen to that end, that the men of God may be made perfect <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. If it be demaunded, who are the <note place="margin">Rom. 15. &amp; 2. Tim. 3. Rom 8.</note> men of God? It may be truely answered, they only are the men of God, that haue the spirit of Christ; for he that hath not that spirit, is not of Christ at al <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, be he learned or ignorant. And therfore in respect of Conscience, no Christian ought to be barrd frō the reading of holy Scripture: for by the great goodnesse of almighty God, (who respects neyther the greatnesse nor littlenesse of persons) the least may as soone obtaine the same Spirit of Truth, as the greatest <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>.</p>
+            <p>It can not then proceede from heauenly wise<g ref="char:EOLhyphen"/>dom, <note place="margin">1. Cor. 1.</note> to barre spirituall men from their due, fearing lest carnall men might take hurt. There are many better wayes to preuent euill, then by omitting to do good; for that is no better then to commit euill. The Deuill did alleadge Scripture against Christ: But Christ did confound the Deuill by Scripture <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Math. 4.</note> If proud Hereticks will needes follow the example of their father the Deuill, in alleadging of Scripture falsely, let the humble Christian follow the exam<g ref="char:EOLhyphen"/>ple of Christ, in confounding of Hereticks by the true sence of Scripture: for at one word, it is vn<g ref="char:EOLhyphen"/>meete that any man should be ignorant of that whereby he must be iudged <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Iohn 12.</note>
+            </p>
+            <p>And as touching the Church, true it is also, that whosoeuer they be that are members of the holy Catholike Church, the Communion of Saints, can not finally erre, for that is the onely Church, against
+<pb facs="tcp:177919:5"/> which, hell gates cannot preuayle. (If thou be in the Church, sayth <hi>S. Ambrose</hi>
+               <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, the gates of hell shal <note place="margin">in his 6. booke vp<g ref="char:EOLhyphen"/>on S. Luke chap. 9.</note> not preuayle against thee.) But to graūt that sole pri<g ref="char:EOLhyphen"/>uiledge to the Church of Rome, or to any other par<g ref="char:EOLhyphen"/>ticular Church wheresoeuer, were nothing els, but by authority to maintaine error for truth; an eui<g ref="char:EOLhyphen"/>dent example whereof we haue seene, by those euils which grew by abusing the authority of the Chaire of Moses, to which now in the new law we will sup<g ref="char:EOLhyphen"/>pose the Chaire of S. Peter to be answerable.</p>
+            <p>The Scribes and the Pharises sit in Moses seat (saith Christ) therfore whatsoeuer they bid you ob<g ref="char:EOLhyphen"/>serue, that obserue and do, but after their workes do not; for they say, and do not <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Math. 23</note>
+            </p>
+            <p>Here, by our Sauiour himselfe we see, that both faithfull, and faithlesse Iewes, were to obey the Church: but how, absolutely in all things? no: for in an other place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> he commaunds them to beware <note place="margin">Math. 16.</note> of the leauen of the Pharises and Sadduces, meaning thereby, their owne doctrines and traditions, which in truth were nothing els but their owne works: &amp; this doth manifestly proue, that (notwithstanding the chayre of Moses) their Church might erre: yea Christ sayth plainely <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, that they made the word of <note place="margin">Math. 15.</note> God of no effect, by meanes of their owne doctrines and traditions; they stood too much vpon the chaire of Moses and their outward calling, boasting (as the Prophet Ieremy sayth <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>) that the law could not pe<g ref="char:EOLhyphen"/>rish <note place="margin">Ierem. 18.</note> from the Priest; and that was the onely cause of their great blindnesse, in not discerning Christ the onely substance of the same Scripture which they
+<pb facs="tcp:177919:6"/> themselues taught: and euen so now, after the same maner doth the Church of Rome beguile her selfe. Whatsoeuer she teacheth, it must by her owne au<g ref="char:EOLhyphen"/>thority be held for truth; for be it error or truth, it is the Church that doth teach it: he is therefore an Heretike that doth gainesay it. But if holy <hi>Paul</hi> had bene of the same mind, touching those that sit in authority in the Church, to what end then did hee giue that good admonition to the Galatians, saying; Though that we (the onely visible Church on earth) or an Angell from heauen, preach vnto you other<g ref="char:EOLhyphen"/>wise then that which we haue preached, let him be accursed <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. Againe, the same Apostle sayth plainly, <note place="margin">Gala. 1. 2. Thess. 2.</note> that Antichrist shall sit in the Temple of God <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>; that is, in the Church of God: and our Sauiour himselfe doth auouch as much, saying, that the abomination of desolation shall sit in the holy place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. And what <note place="margin">Math. 24.</note> may we gather from thence, but profanations &amp; he<g ref="char:EOLhyphen"/>resies to be expected in the visible Church of God? But what may be the cause that such things should take any place in the Church, vnlesse it be, because that by some Churchmē which are in authority, the doctrines and traditions of men are regarded, rather then the truth of holy Scripture?</p>
+            <p>Let all be done to the edifying of the Church (saith S. <hi>Paul)</hi> and be not children in vnderstāding <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">1. Cor. 14.</note> But who can be more childish in vnderstanding, then they that preferre the customes of men (good or bad) before the truth of holy Scripture? as for ex<g ref="char:EOLhyphen"/>ample, who can more contradict the Apostles doc<g ref="char:EOLhyphen"/>trine in the same chapter, thē those that teach praier
+<pb facs="tcp:177919:6"/> and seruice to be vsed in an vnknowne tongue, which most part of the hearers vnderstand not? teaching also innumerable people to rehearse dayly the Articles of our faith, in a tongue which they vn<g ref="char:EOLhyphen"/>derstand not; from which custome no good at all can proceed: but because it hath bene of a long time a custome in the Church of Rome, therfore as vaine as it is, it will hardly yet be left.</p>
+            <p>It is Error therefore, and pernicious to hold, that the visible Church of Rome, (or els where) cannot erre: for by that false opinion, the doctrines of men are held to be of as great force, as the word of God, &amp; many errors to passe as currant, as the truth it selfe.</p>
+            <p>But long since, and before that false opinion sprung vp in the Church, the later Councels did sometimes correct &amp; amend the former, as <hi>S. Austine</hi>
+               <note place="margin">Aug. de Baptis. contra Dona. lib. 2. Cap. 3.</note> testifieth <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, yea, the Councels themselues testify as much; for if they be well conferred together, it will manifestly appeare, that in some principall poynts, the one doeth contradict the other: (and heere I meane as well generall Councels as others.) And thereby wee may clearely discerne, that with too great a number, and of too long a continuance, Er<g ref="char:EOLhyphen"/>rour hath bene held for Trueth, and Trueth for Er<g ref="char:EOLhyphen"/>rour: for as concerning our doctrine taught in the Church of great Britayne, albeit that those of your side account it in some poynts not onely to be erro<g ref="char:EOLhyphen"/>nious, but also to be as nouelties neuer heard of be<g ref="char:EOLhyphen"/>fore <hi>Luthers</hi> time; yet the same doctrine in substāce is wholy agreeable to the doctrine of Christ, taught by himselfe, the Apostles, &amp; the primitiue Church.
+<pb facs="tcp:177919:7"/> And this might very easily be proued, if the greater part of Christians in this corrupt age, were not of that euill disposition, as rather still stubburnly to contend one with another, then meekely and mild<g ref="char:EOLhyphen"/>ly like Christians in deed to admonish one another, euery one being as desirous of his brothers welfare as of his owne. But condemne vs not rashly: for as you mistake vs in one point, so may you also in ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>It is wrongfully giuen out by many of you, that we teach a vayne faith without workes to iustifie. But verily we teach no such thing, but the contra<g ref="char:EOLhyphen"/>ry; for we hold that no faith can iustify, but that faith onely which worketh by loue <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, and the same faith <note place="margin">Gala. 5. and 6.</note> onely we hold to iustifie without the workes of the law, euen according to <hi>S. Paul,</hi> Rom. 3. and accor<g ref="char:EOLhyphen"/>ding to that sence which the ancient fathers held, in saying, Faith onely iustifieth; they neuer meaning thereby a vaine faith, to wit, faith in word and pro<g ref="char:EOLhyphen"/>fession onely, but a true faith which worketh by loue: for we may well proue from Scripture, that all those which haue not the same true and liuely faith, do as much erre in faith, as in maners, (though not in doctrine:) for a good Tree cannot bring forth euill fruit, neyther can an euill Tree bring foorth good fruit <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Math. 7.</note>
+            </p>
+            <p>A fayned faith and a falsecalled knowledge, is ac<g ref="char:EOLhyphen"/>counted by some to be true faith and true know<g ref="char:EOLhyphen"/>ledge: but there is but one true faith, one Lord, one Faith, one Baptism <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. True faith is defined to be the <note place="margin">Ephe. 4.</note> ground of things hoped for, and the euidence of
+<pb facs="tcp:177919:7"/> things not seene <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. Now he that hath this true faith, <note place="margin">Hebre 11.</note> to wit, this euidence of things which are not seene, must of necessity know the inuisible God; but he that knoweth God, keepeth his commandements: for to know God, is eternall life <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. Truely to know, <note place="margin">Iohn. 17.</note> I say, is eternall life; for he that sayth he knoweth God, and keepeth not his commaundements, is a liar, and the truth is not in him <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. Whereby we may <note place="margin">1. Iohn. 2.</note> well gather from holy Scripture, that true Know<g ref="char:EOLhyphen"/>ledge, true Fairh, and true Loue are three insepera<g ref="char:EOLhyphen"/>ble things, and proper onely to the elect.</p>
+            <p>And by this you may well perceiue, that our doc<g ref="char:EOLhyphen"/>trine doth neyther deny the doing of good workes, nor the promised reward therof, (for as it is noted before) we acknowledge no other way to heauen, but by faith which worketh by loue:) but indeed to exclude all boasting in man, (because he cannot do any good of himselfe) we attribute all prayse and glory to God alone, from whom all good proceeds: for what haue we that we haue not receiued? And if thou hast receiued it (saith the Apostle <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>) why re<g ref="char:EOLhyphen"/>ioycest <note place="margin">1. Cor. 4.</note> thou, as though thou hadst not receiued it? Therefore when any good is done, we say with S. <hi>Paul</hi>
+               <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, Not we do it, but the grace of God which is <note place="margin">1. Cor. 15. Gala. 2. &amp; Rom. 10. Rom. 7. &amp; 2. Cor. 3.</note> with vs: wee our selues liue not, but Christ liueth in vs <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>: for still we acknowledge with the holy Apostle, that in vs, that is, in our flesh, there dwel<g ref="char:EOLunhyphen"/>leth no good <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>.</p>
+            <p>But not to trouble you ouermuch with a rude and harsh Preamble, I beseech you for his sake that died vpon the Crosse, to free vs all from the tyrānie
+<pb facs="tcp:177919:8"/> of the father of lyes, that you will sincerely &amp; truely (and according to your conscience, by the trueth of holy Scripture) answere to these sixe demaunds of mine, touching some poynts yet in controuersie betweene vs; for thereby I hope you shall cleerely discerne, that the Church of Rome doth erre, in affirming that the Church of Rome cannot erre. Wrest not the holy Scriptures, to make them agree with vncertaine traditions and doc<g ref="char:EOLhyphen"/>trines of men: but proue all in Gods name, and hold onely that which is good. And euen so I commit you to the direction of the holy Spirit.</p>
+         </div>
+         <div type="demands">
+            <pb facs="tcp:177919:8"/>
+            <head>Sixe Demaunds, from an vnlear<g ref="char:EOLhyphen"/>ned <hi>Protestant, to a learned Papist.</hi>
+            </head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>
+                  <seg rend="decorInit">F</seg>Irst, whether the holy Catholike Church, the Communion of Saints, be not onely the true Church which cannot finally erre, as being that Church onely, against which, hell gates cannot preuayle?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>SEcondly, whether hell gates preuayle not as much against all those which liue and dye in deadly sinnes, (be they Bishops of Rome, or who els soeuer) as those that liue and die in Heresies? for all doe erre, in refusing the right way to heauen, and taking the ready way to hell.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>THirdly, if hell gates preuayle against all reprobates, (and so by good consequence, they not in the Com<g ref="char:EOLhyphen"/>munion of Saints the holy Catholike Church) how then can we directly poynt to those that cannot erre? for God onely knowes who are his.</hi>
+            </p>
+            <p>THat these 3. former poynts may be the better answered, both according to Scripture, &amp; to the truth taught in the Church aboue a thousand yeres since; it may please the Answerer to note well, what Saint <hi>Ambrose</hi> &amp; Saint <hi>Augustine</hi> do write touching the Rock, against which, hell gates cannot preuaile,
+<pb facs="tcp:177919:9"/> and also what S. Gregory doth write touching the vniuersall authority of one Bishop; for by that meanes it may be, that he will not so much com<g ref="char:EOLhyphen"/>mend the doctrine taught now in the Church of Rome, as the doctrine of the same Church taught in their dayes, being so much difference betweene them, as betweene truth and falshood: for albeit the Successor of S. <hi>Peter</hi> may now sit in Peters chayre at Rome, yet it is most euident by good proofe frō antiquity, that the fayth of S. Peter is not now in the same chaire. But God forbid, that Custome (al<g ref="char:EOLhyphen"/>though neuer so ancient) should take place before Trueth.</p>
+            <p>Among many other places, which those anci<g ref="char:EOLhyphen"/>ent Fathers haue written touching these things, I note here onely but these few following.</p>
+            <p>S. Ambrose vpon S. Luke, the sixt booke and ninth chap. and vpon the 40. Psalm. S. Augustine against Cresconius, the 2. booke, chap. 21. and 22. &amp; in his booke of the vnity of the Church, chap. 18. in his 19. Sermon vpon S. Mat. also in his 6. trea<g ref="char:EOLhyphen"/>tise vpon S. Iohn, and in his 2. booke of Baptisme a<g ref="char:EOLhyphen"/>gainst the Donatists, the 3. chap. S. Gregory Mag<g ref="char:EOLhyphen"/>nus in his 4. booke, epistle 32, 36, 38, 39. also in his 6. booke, epistle 24, 30. and his 7. booke, epistle 69.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>Fourthly, Whether there can be any sinne (little or great) in man, without the breach of the Com<g ref="char:EOLhyphen"/>maundement, because it is written, that where there is no</hi>
+               <note place="margin">Rom. 4.</note>
+               <hi>Law, there is no Transgression *: but the Cōmaundemēt being broken, we all hold the same sinne deadly, (for the</hi>
+               <note place="margin">Rom. 6.</note>
+               <hi>wages of sinne is death <gap reason="symbol" extent="1 letter">
+                     <desc>〈☐〉</desc>
+                  </gap>) it being not repented before</hi>
+               <pb facs="tcp:177919:9"/>
+               <hi>death: for the Trueth himselfe doth auouch, that vnlesse we repent, we shall all perish</hi>
+               <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Luke. 13</note>
+            </p>
+            <p>That this poynt may be the better vnderstood, let vs consider well vpon the seuerity of those two Commaundements, on which the whole law &amp; the Prophets depend <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Math. 22.</note>
+            </p>
+            <p>
+               <hi>First, Thou shalt loue the Lord thy God with all thy heart, with all thy soule, with all thy mind, and with all thy strength.</hi>
+            </p>
+            <p>
+               <hi>Secondly, Thou shalt loue thy neighbour as thy selfe, &amp;c.</hi>
+            </p>
+            <p>From hence we note, that there is not any good (little or much) that man can doe, but he is bound to do it, euen by this law of loue; for if he omit it for any respect whatsoeuer, how then doth he loue God with all his heart and soule, &amp;c. he not wholy (as much as in him lyeth) doing the will of God at all times, whose will is that we should be perfect as our heauenly father is perfect <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>? And by this we ab<g ref="char:EOLhyphen"/>solutely <note place="margin">Math. 5</note> cut off both works of supererogation, and works of satisfaction to God: for it can not be truely said, that a man neglecting his duty at one time, may yet make full satisfaction for the same offence, onely by doing his duty at an other time; because the Scripture doth declare vnto vs, that when we haue done all that we can do, we are yet vnprofitable ser<g ref="char:EOLhyphen"/>uants, and haue done but our dutyes <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Luke. 17.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <hi>Fiftly, forasmuch as none but God can tell whether a man shall repent or no of any sinne before death, whe<g ref="char:EOLhyphen"/>ther therefore, that sinne which S. Iohn forbids vs to pray for <gap reason="symbol" extent="1 letter">
+                     <desc>〈☐〉</desc>
+                  </gap>, be not that sinne onely which a man dies in without</hi>
+               <note place="margin">1. Iohn. 5.</note>
+               <hi>Repentance, and so consequently no sinne to be prayd for af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:177919:10"/> death? for sinne not being repented before death, the Scripture doth proue it damnable, as is noted before in the fourth demaund: but being truely repented from the bot<g ref="char:EOLhyphen"/>tome of the heart, the same Scripture proues the same sinne to be absolutely pardoned, &amp; altogether cleansed by the infi<g ref="char:EOLhyphen"/>nite merites of Christ Iesus <gap reason="symbol" extent="1 letter">
+                     <desc>〈☐〉</desc>
+                  </gap>: whereof also we haue an eui<g ref="char:EOLhyphen"/>dent</hi>
+               <note place="margin">1. Iohn. 1.</note>
+               <hi>example by the penitent Thiefe that died vpon the Crosse <gap reason="symbol" extent="1 letter">
+                     <desc>〈☐〉</desc>
+                  </gap>: for if by Gods Iustice a Purgatory fire were requi<g ref="char:EOLhyphen"/>sit</hi>
+               <note place="margin">Luke. 23.</note>
+               <hi>for any of his elect, then vndoubtedly it had bene most re<g ref="char:EOLhyphen"/>quisite for him that repēted so late, &amp; without any satisfac<g ref="char:EOLhyphen"/>tion at all, but onely that satisfaction which Christ made for him; which is all sufficient both for him and all the elect of God.</hi>
+            </p>
+            <p>ANd that this point may be well vnderstood, let vs consider well both of the infinite mercies of Al<g ref="char:EOLhyphen"/>mighty God towards his children the elect, and also of the infinite merits of Christ; for of necessity it must be granted, that a Purgatory fire after this life to torment the children of God, can not stand both with those mercyes of God, and merits of Christ: and I proue it after this maner following.</p>
+            <p>It is written in the 103. Psalm, that as a father hath compassion on his children, so doth our heauenly Father pitty those that feare him, to wit, his owne children; (and we find it to be so by the example of the Thiefe before specified.) But what father will punish his child (being come to yeeres of discre<g ref="char:EOLhyphen"/>tion) for the follies committed in his youth, the same father being also assured, that his sonne is so heartily repentant for the same follies, that he will neuer commit them againe? And shall we vainely
+<pb facs="tcp:177919:10"/> imagine, that God is not so mercifull and fauoura<g ref="char:EOLhyphen"/>ble to his repentant children, as man to his? or shall we vainely imagine (respecting Gods iustice) that the merits and satisfaction of Christ, are not as suf<g ref="char:EOLhyphen"/>ficient for one faithfull repentant sinner, as for ano<g ref="char:EOLhyphen"/>ther? God forbid: let vs rather acknowledge the errour herein, wheresoeuer it be, and although ne<g ref="char:EOLhyphen"/>uer so ancient: for better late then neuer, to ac<g ref="char:EOLhyphen"/>knowledge ignorance and error to be incident to all men <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Rom. 3.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <hi>SIxtly and finally, whether they teach not contrary to Christ, which teach, that a man may eate and drinke the blessed Body and Blood of Christ, (the onely spirituall food and life of the soule) to his owne damnation? for our Sauiour doth absolutely affirme without any exception or condition, that whosoeuer eateth his flesh, and drinketh his blood, hath life euerlasting <gap reason="symbol" extent="1 letter">
+                     <desc>〈☐〉</desc>
+                  </gap>. And thereby it is most eui<g ref="char:EOLhyphen"/>dent,</hi>
+               <note place="margin">Iohn. 6.</note>
+               <hi>that eyther those words of Christ must be vnderstood otherwise then they are there exprest (which no good Chri<g ref="char:EOLhyphen"/>stian dares to doe) or els the same Scripture doth apparant<g ref="char:EOLhyphen"/>ly proue, that a reprobate (as Iudas, and such like) can ney<g ref="char:EOLhyphen"/>ther eate nor drinke that heauenly substance.</hi>
+            </p>
+            <p>
+               <hi>But if in that one place of Scripture, any one thing may bee vnderstood more or lesse then the Text doeth ex<g ref="char:EOLhyphen"/>presse, why may it not likewise be so in some other places thereof, euen where men themselues shall thinke good, and so the word of GOD to bee made of no effect, by the doctrines and traditions of men?</hi>
+            </p>
+            <pb facs="tcp:177919:11"/>
+            <p>THerefore, that it may euidently appeare to the discreet Christiā, that there is not both a wor<g ref="char:EOLhyphen"/>thy and an vnworthy receyuing of that spirituall food, (the Body and Blood of Christ), as there is of the Sacrament thereof, according to S. <hi>Paul</hi>
+               <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, &amp; <note place="margin">1. Cor. 11.</note> according to the eating of Manna among the Iewes; let him note well what our Sauiour himselfe saith more in the same chap. This is that bread which came downe from heauen, (sayth he) not as your fathers haue eaten Manna, and are dead. He that ea<g ref="char:EOLhyphen"/>teth of this bread, shall liue for euer. Not as your fathers haue eaten Manna, &amp; are dead, sayth Christ. Yes, sayth the Church of Rome, Euen as your fa<g ref="char:EOLhyphen"/>thers haue eaten Manna vnworthily, and are dead: so he that eateth of this heauenly bread vnworthily, shall likewise die.</p>
+            <p>It is plaine by the Apostle <hi>Paul</hi> *, that the faithfull <note place="margin">1. Cor. 10.</note> Iewes did eate and drinke the same spirituall foode which we doe, euen the bread of life; and therefore are not dead, but liue. As many as in Manna vnder<g ref="char:EOLhyphen"/>stood Christ, (saith <hi>S. Augustine)</hi> did eate the same spirituall foode which we doe <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">De vtilita. poenitent. Cap. 1.</note>
+            </p>
+            <p>See more S. <hi>Augustine</hi> for this last point, in his 26. Treatise vpon S. <hi>Iohn,</hi> and beleeue not lying spirits, but proue by Gods word, whether the spirit be of God or no: for by that good meanes, Error may be confounded, and Truth made manifest, with glo<g ref="char:EOLhyphen"/>ry to God, and peace among Christians: which God graunt of his infinite goodnesse. Amen.</p>
+         </div>
+         <div type="argument">
+            <pb facs="tcp:177919:11"/>
+            <head>An inuincible Argument, to <hi>proue the Church of Rome to erre.</hi>
+            </head>
+            <epigraph>
+               <q>Reiect him that is an Heretike, after once or twise admonition, knowing that he that is such, is peruer<g ref="char:EOLhyphen"/>ted, and sinneth, being condemned of his owne selfe,</q>
+               <bibl>Tit. 3</bibl>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hosoeuer mistakes holy Scripture, doth erre.</p>
+            <p>But the Church of Rome mis<g ref="char:EOLhyphen"/>takes holy Scripture:</p>
+            <p>Therefore the Church of Rome doth erre.</p>
+            <p>Whosoeuer vnderstāds more or lesse in Scripture then the text doth expresse, mistakes the Scripture.</p>
+            <p>But the Church of Rome vnderstands more in Scripture then the Text doth expresse:</p>
+            <p>Therefore the Church of Rome mistakes the Scripture.</p>
+            <p>THat the Church of Rome vnderstands more in Scripture then the text doth expresse, I proue it frō the 6. of <hi>S. Iohn:</hi> for there where our Sa<g ref="char:EOLhyphen"/>uiour saith absolutely without any exceptiō or con<g ref="char:EOLhyphen"/>dition, Whosoeuer eateth his flesh, and drinketh his blood, hath life euerlasting; the Church of Rome
+<pb facs="tcp:177919:12"/> vnderstands him to speake conditionally, as in effect to say, Whosoeuer eateth my flesh, and drinketh my blood (worthily,) hath life euerlasting <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. And this is <note place="margin">See Bel<g ref="char:EOLhyphen"/>larmine in his 1. booke of the Eu<g ref="char:EOLhyphen"/>charist, Cap. 7.</note> more then the text doth expresse, not in word one<g ref="char:EOLhyphen"/>ly, but in signification: for it is one thing to giue a benefite freely, and another thing to giue it condi<g ref="char:EOLhyphen"/>tionally: therfore this text of Scripture is most cleare against the Church of Rome, that the wicked and reprobate can neyther eate nor drinke the flesh and blood of Christ.</p>
+            <p>But to confirme this argument to be inuincible against all Heretikes, let any Heretike with his heresy be brought to the triall of holy Scripture: and al<g ref="char:EOLhyphen"/>though some one place thereof being brought a<g ref="char:EOLhyphen"/>gainst him, may seeme to agree with him, or not to make against him at all, yet diuers places of Scrip<g ref="char:EOLhyphen"/>ture being conferred together, he shall then be for<g ref="char:EOLhyphen"/>ced eyther to acknowledge his owne error, or other<g ref="char:EOLhyphen"/>wise to vnderstand more or lesse in Scripture, then the text doth expresse: and for more confirmation thereof, we will touch one poynt more.</p>
+            <p>It is written in the 1. to <hi>Tim.</hi> chap. 4. that in the latter times some shall depart from the faith, giuing heede to spirits of error, and doctrines of deuils, teaching lyes in hypocrisy, &amp;c. forbidding to marry, and commaunding to abstaine from meates lawful<g ref="char:EOLhyphen"/>ly to be eaten, &amp;c.</p>
+            <p>Here from the truth we proue to the Church of Rome, that the Apostle doth prophesie of them, be<g ref="char:EOLhyphen"/>cause they forbid some to marry, &amp;c. But they denie it, saying, that he doth rather prophesie of the <hi>Mani<g ref="char:EOLhyphen"/>chees,</hi>
+               <pb facs="tcp:177919:12"/> because they held marriage vncleane, and therefore altogether vnlawfull: but we (say they) contrary to them, doe hold it a holy Sacrament; and therefore the Apostle doth not there speake of vs at all.</p>
+            <p>Wee still vrge them with truth, that the Apostle doth there speake as much of them, as of those an<g ref="char:EOLhyphen"/>cient Heretikes, and rather of them then of the o<g ref="char:EOLhyphen"/>ther, because in hypocrisie they rather forbid mar<g ref="char:EOLhyphen"/>riage then the other, seeming to account of it as an holy thing, and yet forbidding it in some persons, as rather in them prophane then holy, notwithstan<g ref="char:EOLhyphen"/>ding the holy Scripture doth affirme it honourable in all <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">1. Cor. 7. &amp; Hebr. 13.</note>
+            </p>
+            <p>They yet replie against the plaine text of Scrip<g ref="char:EOLhyphen"/>ture, (as we find by their Rhemish notes vpon the same places) that marriage is not lawfull in a Bishop or Priest, and therefore not honorable in all, but in some, to wit, in such as may lawfully marry, and are lawfully married: not in brothers and sisters, (say they) neyther in persons which haue vow<g ref="char:EOLhyphen"/>ed the contrary.</p>
+            <p>But this answere of theirs is no better then a de<g ref="char:EOLhyphen"/>luding speach: for as it is lawfull for brothers and sisters to marry, they not being married one to ano<g ref="char:EOLhyphen"/>ther, or contrary to Gods law: so is it also lawfull for a Bishop or Priest to marry, without making any such vndiscreete vowes to the contrary: for to confound this erronious opinion of theirs, wee shew vnto them, where the same Apostle which did prophesie of this deuilish error, doth auouch a
+<pb facs="tcp:177919:13"/> Bishop the husband of one wife, to be vnreprouea<g ref="char:EOLhyphen"/>ble <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. To which they reply, according to the maner <note place="margin">1. Tim. 3.</note> of all Heretiks, that there the Apostle must be vnder<g ref="char:EOLhyphen"/>stood to speake of a Bishop, that hath bene the hus<g ref="char:EOLhyphen"/>bād of one wife. But this is plaine absurdity; for it is one thing to be a maried man the husband of one wife, and another thing to be a widdower that hath bene the husband of one wife: and he that takes frō Scripture the one for the other, doth apparantly de<g ref="char:EOLhyphen"/>clare himselfe to erre, in mistaking the Scripture.</p>
+            <p>Read the 3, 4, &amp; 5. chapters of the 1. to <hi>Timoth.</hi> (and conferre the 2. verse of the 3, with the 9. of the 5.) and note thereby, who S. <hi>Paul</hi> thought meetest for single life; for euery one can not liue single and chaste, although he would <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. And therefore, al<g ref="char:EOLhyphen"/>though <note place="margin">Math. 19 1. Cor. 7.</note> chaste single life is to be preferred before marriage, yet to make marriage vnlawfull in any, is deuilish: for an vnchaste single life is the more abo<g ref="char:EOLhyphen"/>minable to God, because marriage is honorable in all degrees.</p>
+            <p>This Argument therefore is not lightly to be re<g ref="char:EOLhyphen"/>garded; for by the inuincible force and strength thereof, all Heretiks may be conuerted or confoun<g ref="char:EOLhyphen"/>ded; for albeit faith be aboue reason, yet faith is not against reason. But it cannot stand with reason &amp; a good conscience, that a Christian should beleeue any thing for truth, which the Scripture doth con<g ref="char:EOLhyphen"/>tradict: and therefore it followes of necessity, that it cannot stand with reason and a good conscience, that a Christian should beleeue any thing for truth, before he knowes certainely, whether the same be
+<pb facs="tcp:177919:13"/> agreeable to holy Scripture or no; for there must be no doubt in faith: and faith is by hearing, and hea<g ref="char:EOLhyphen"/>ring by the word of God <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Rom. 10</note>
+            </p>
+            <p>But setting the authority of the Church of Rome aside, who can doubt, that the holy Scripture doeth allowe it lawful in a Bishop or Priest to liue in chaste wedlocke? Againe, setting the authority of the Church of Rome aside, who can doubt, that the ho<g ref="char:EOLhyphen"/>ly Scripture doth allowe it a true and lawfull fast in any Christian whosoeuer, eyther not to eate any thing at all, or els in respect of natures weakenesse, to eate a very small quantity of any meate whatso<g ref="char:EOLhyphen"/>euer, not respecting therein the difference of meats, but onely the quantity?</p>
+            <p>It may well be, that he which hath his conscience sEared with an hot Iron, will doubt of these things: but not any other can make any doubt therein; and therefore not any other can doubt that the Church of Rome is not the true Church of Christ, but ra<g ref="char:EOLhyphen"/>ther assuredly the Antichristian Church, in extol<g ref="char:EOLhyphen"/>ling her selfe so much aboue God <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, as to make that <note place="margin">2 Thes. 2.</note> vnlawfull by her owne traditions, which he hath made lawfull by his holy word.</p>
+            <p>True chastity and true fasting are highly to be commended; but if there were no Scripture to lay open these hypocriticall errors, yet the absurdities therein are sufficient to proue them meere sollies, proceeding onely from earthly wisdome; for as tou<g ref="char:EOLhyphen"/>ching the vndiscreet vowes of Priests neuer to mar<g ref="char:EOLhyphen"/>ry, many of them, in so vowing to omit that which is lawfull, haue bene thereby constrayned to com<g ref="char:EOLhyphen"/>mit
+<pb facs="tcp:177919:14"/> that which is vnlawfull: and this is a truth most euident; yet it is vainely giuen foorth by many, that euery man that doth endeuour himselfe to liue sin<g ref="char:EOLhyphen"/>gle and chaste, may so liue if he will: but that o<g ref="char:EOLhyphen"/>pinion is contrary to Scripture, as is noted before.</p>
+            <p>Indeed God may bestow that gift of continency vpon whom he will: but it is plaine presumption in any man, to vowe to do that thing which lies not in his power to do, and then afterwards to craue pow<g ref="char:EOLhyphen"/>er from God, that he may be able to performe it: for if God should refuse to grant the petition pro<g ref="char:EOLhyphen"/>ceeding from such a presumptuous person, what then may be expected in him, but vncleannesse? for marry he will not.</p>
+            <p>And as touching fasting, in few words, it is also plaine absurdity, (respecting a Christian fast) to for<g ref="char:EOLhyphen"/>bid a small quantity of some kind of meats, and to allowe a large quantity of an other.</p>
+            <p>Therefore let euery man beware, that he neglect not the wisdome of the spirit, contained in holy Scripture, to follow the wisdome of the flesh, con<g ref="char:EOLhyphen"/>tained in the doctrines and traditions of men.</p>
+            <p>Seeing faith is by hearing, and hearing by the word of God <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, let no man be wilfully ignorant <note place="margin">Rom. 10.</note> what that word teacheth: for the testimony of our Lord is sure, and giueth wisdome vnto the simple, Psalm. 19.</p>
+         </div>
+         <div type="note">
+            <pb facs="tcp:177919:14"/>
+            <head>An infallible note, whereby to <hi>know the spirit of Truth, and the</hi> spirit of Error.</head>
+            <epigraph>
+               <q>Beleeue not euery spirit: but try the spirits, whether they are of God,</q>
+               <bibl>1. Iohn. 4.</bibl>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hosoeuer doth vnfaynedly desire to haue all men reformed and con<g ref="char:EOLhyphen"/>firmed in euery thing, (both in word and deed, doctrine and maners, pro<g ref="char:EOLhyphen"/>fession and conuersation, faith and works) onely by that truth which hath bene from the beginning, * (to wit, the holy <note place="margin">1 Iohn. 2.</note> Scriptures) may assure himselfe to be directed by the Spirit of truth; because he finds himselfe most willing in all points, rather to obey God then man: for from thence proceeds a good conscience, which can neyther allow nor disallow any thing, but that which God doth allow or disallow.</p>
+            <p>But whosoeuer is directed by the spirit of error, shall find himselfe nothing agreeable to the former, but altogether opposite vnto him; for although hy<g ref="char:EOLhyphen"/>pocritically be may seeme highly to commend the authority of holy Scripture, before any other autho<g ref="char:EOLhyphen"/>rity whatsoeuer, yet in truth and in deed, (he obey<g ref="char:EOLhyphen"/>ing man rather then God) shall find himselfe who<g ref="char:EOLhyphen"/>ly vnwilling to be tried onely by that vndoubted
+<pb facs="tcp:177919:15"/> truth, because there is not any thing more against error and nouelties, then the same truth which hath bene from the beginning; and for that cause, the spirit of error seekes rather to subuert by fire and sword, then to conuert by the sacred word.</p>
+            <p>The spirit of truth walking in the true light, doth seeke to proue euery doubt by a certainety, and thereby oftentimes makes simple men to argue dis<g ref="char:EOLhyphen"/>creetely and wisely, according to spirituall wise<g ref="char:EOLhyphen"/>dome.</p>
+            <p>But the spirit of error walking in darknesse, doth still seeke to make good one vncertainety by an o<g ref="char:EOLhyphen"/>ther, and thereby too often makes great schollers to argue vndiscreetely and absurdly.</p>
+            <p>To speake much in few words, the spirit of truth searcheth the holy Scriptures diligently: &amp; where those Scriptures are truely searched, there God is found; and whosoeuer hath God on his side, shalbe sure to ouercome: for great is that spirit of truth, &amp; in the end it will preuayle against the greatest aduer<g ref="char:EOLhyphen"/>sary to Christ *, which some suppose to be <hi>Lateinos,</hi>
+               <note place="margin">2. Thes. 2.</note> (the Latin man) 666. and <hi>Dux Cleri</hi> (the guide <note place="margin">
+                  <table>
+                     <row>
+                        <cell>L. 30.</cell>
+                        <cell>D. 500.</cell>
+                     </row>
+                     <row>
+                        <cell>a. 1.</cell>
+                        <cell>u. 5.</cell>
+                     </row>
+                     <row>
+                        <cell>t. 300.</cell>
+                        <cell>x. 10.</cell>
+                     </row>
+                     <row>
+                        <cell>e. 5.</cell>
+                        <cell>O. 100.</cell>
+                     </row>
+                     <row>
+                        <cell>i. 10.</cell>
+                        <cell>l. 50.</cell>
+                     </row>
+                     <row>
+                        <cell>n. 50.</cell>
+                        <cell>e. 0.</cell>
+                     </row>
+                     <row>
+                        <cell>o. 70.</cell>
+                        <cell>r. 0.</cell>
+                     </row>
+                     <row>
+                        <cell>s. 200.</cell>
+                        <cell>i. 1.</cell>
+                     </row>
+                     <row>
+                        <cell>66.</cell>
+                        <cell>666.</cell>
+                     </row>
+                  </table>
+                  <p>It is noted by the learned, that although diuers names comprehend this number, yet none in such ample maner, according to holy Scripture, (all cir<g ref="char:EOLhyphen"/>cumstances therein respected) as the Popes of Rome, since the yeere of grace 666. And as they note the same number in the former words from the Greeke and Latine, so doe they also in the Hebrew word for a Romane.</p>
+               </note> of the Cleargie) 666 *. <hi>Reue.</hi> 13.</p>
+            <p>And for as much as there is not any other pow<g ref="char:EOLhyphen"/>er, that can so much preuayle against that great ad<g ref="char:EOLhyphen"/>uersary, as the same spirit of truth, who then, but a
+<pb facs="tcp:177919:15"/> skornefull Heretike or worldling, will reiect that truth (although neuer so simply vttered) which is brought forth against the same aduersary?</p>
+            <p>Simplicity cannot lye to deceiue, because she is not able by craft and cunning to colour a lye, there<g ref="char:EOLhyphen"/>by to make it seeme better then it is. Therefore whosoeuer doth reiect a simple truth, is most wor<g ref="char:EOLhyphen"/>thy to be deceiued by a sophisticall lye.</p>
+            <p>Simplicity and plaine dealing were neuer enemies to truth, but to error; for Hereticks cannot thereby mainetaine their heresies: but by sophistry and e<g ref="char:EOLhyphen"/>quiuocation they endeuour to proue truth to be error, and error to be truth *. <note place="margin">Colo. 2.</note>
+            </p>
+            <p>There is an earthly wisdome belonging to the naturall man, and that wisedome is foolishnes to God, and deceiues many.</p>
+            <p>But there is a heauenly wisedome belonging to the spiritual man, which is foolishnes to the world, and that can neyther deceiue, not be deceiued: for he that is spiritual, discerneth all things *. Blessed is <note place="margin">1. Cor. 2.</note> he then that is a foole to the world, and wise to God.</p>
+            <p>To the man of God, truth is as welcome from a Puny, as from a Philosopher: and why? because both in rich and simple attyre, she is <hi>semper eadem,</hi> alwayes the same. Therefore he is as vaine &amp; sence<g ref="char:EOLhyphen"/>lesse, that doth reiect the simple truth, being spokē to no other end, but to the confounding of deuilish errors, as he that doth reiect Art and science, being vsed to the glory of God; for when all is done and sayd, it is truth that must confound the Deuill, and
+<pb facs="tcp:177919:16"/> nothing else but onely truth.</p>
+            <p>Let no man therefore forbeare to set her foorth, because he finds himselfe to be ignorant in Arts: for it is better that his ignorance therein be layd open to the world, then truth to lye hid wheresoeuer; for being set forth in a knowne Language, and easie to be vnderstood by the most simple, there is not then any iust cause why Christian truth should be reiec<g ref="char:EOLhyphen"/>ted at any time. He that is wise indeed, will regard the inward spirit, more then the outward letter, ab<g ref="char:EOLhyphen"/>horring onely that which is euill, and cleauing one<g ref="char:EOLhyphen"/>ly vnto that which is good <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>; abhorring errour, <note place="margin">Rom. 12 Gala. 1.</note> though in an Angell from heauen <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>, and cleauing vnto truth, albeit from the mouth of the most simple <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Psalm. 8.</note>
+            </p>
+            <p>In the trying of masteries, and in striuing for vic<g ref="char:EOLhyphen"/>tory, policy doth direct the weakest to incounter the weakest, and the strongest to encounter the strongest aduersaries; but where the weakest is well able to resist the strongest, who can doubt which fide is to haue the victory?</p>
+            <p>Among Protestands, I am not onely in the num<g ref="char:EOLhyphen"/>ber of the weakest, but the weakest of the weakest (as may be well seene by my weake maner of wri<g ref="char:EOLhyphen"/>ting hereof:) yet I doe here iustly forbid any Papist whosoeuer, to reply directly against these things which I haue brought against him, and not thereby to commit manifest absurdity And why do I say this, being but a simple lay man vnlearned, but be<g ref="char:EOLhyphen"/>cause I haue that truth on my side, which will neuer be ouercome directly? If a thousand learned Papists
+<pb facs="tcp:177919:16"/> set themselues together against one simple Protestāt, he hauing Gods truth on his side, they could neuer preuayle against him: for <hi>si Deus pro nobis, quis con<g ref="char:EOLhyphen"/>tra nos?</hi> If God be for vs, who can be against vs <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>? <note place="margin">Rom. 8.</note>
+            </p>
+            <p>Therefore to the confusion of all wicked skorners directed by the spirit of error, and wisedome of this world, (for skornefulnes is a proper marke belong<g ref="char:EOLhyphen"/>ing to the wicked <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>) we will conclude with <note place="margin">Psalm. 1.</note> this truth: A scorner seeketh wisedome, and findeth it not: but know<g ref="char:EOLhyphen"/>ledge is easie to him that will vnder<g ref="char:EOLhyphen"/>stand <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>. <note place="margin">Pro. 14.</note>
+            </p>
+            <epigraph>
+               <bibl>1. Cor. 10.</bibl>
+               <q>VVhatsoeuer we do, let all be done to the glory of God.</q>
+            </epigraph>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
